@@ -10,7 +10,7 @@ import {
 } from "lucide-react";
 
 import TeamBackground from "../components/TeamBackground";
-import story from "../assets/lady.png";
+import story from "../assets/team.png";
 
 /* partner logos */
 import mtn from "../assets/partners/mtn.png";
