@@ -26,11 +26,11 @@ export default function Footer() {
         {/* Contact */}
         <div className="flex items-center gap-4 text-xs flex-wrap">
           <span className="flex items-center gap-1">
-            <Mail size={14}/> hello@icellmultimedia.com
+            <Mail size={14}/> info@icell.com
           </span>
 
           <span className="flex items-center gap-1">
-            <Phone size={14}/> +234 XXX XXX XXXX
+            <Phone size={14}/> +234 809 047 2355
           </span>
 
           <span className="flex items-center gap-1 hidden lg:flex">

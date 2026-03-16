@@ -98,10 +98,10 @@ export default function ContactCTA() {
             delay={0}
             icon={<Mail className="h-4 w-4" />}
             title="Email"
-            value="hello@icellmultimedia.com"
+            value="info@icell.com"
             hint="Send us a message and we’ll respond quickly."
             actionLabel="Send Email"
-            actionHref="mailto:hello@icellmultimedia.com"
+            actionHref="mailto:info@icell.com"
           />
 
           <InfoCard
@@ -109,10 +109,10 @@ export default function ContactCTA() {
             delay={90}
             icon={<Phone className="h-4 w-4" />}
             title="Phone"
-            value="+234 XXX XXX XXXX"
+            value="+234 809 047 2355"
             hint="Prefer a call? We’re available during business hours."
             actionLabel="Call Now"
-            actionHref="tel:+2340000000000"
+            actionHref="tel:+234 809 047 2355"
           />
 
           <InfoCard
