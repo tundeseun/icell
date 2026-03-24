@@ -1,7 +1,6 @@
 // src/components/ContactCTA.tsx
 import React, { useEffect, useRef, useState } from "react";
 import { Mail, Phone, MapPin, ArrowRight, Sparkles } from "lucide-react";
-
 export default function ContactCTA() {
   // ✅ no `any` — typed correctly
   const sectionRef = useRef<HTMLElement>(null);
